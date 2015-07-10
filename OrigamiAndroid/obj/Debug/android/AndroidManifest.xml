@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="OrigamiAndroid.OrigamiAndroid" android:versionCode="1" android:versionName="1.0">
+  <uses-sdk android:minSdkVersion="11" />
+  <application android:label="OrigamiAndroid" android:icon="@drawable/icon" android:name="mono.android.app.Application" android:debuggable="true">
+    <activity android:icon="@drawable/icon" android:label="OrigamiAndroid" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Splash" android:name="md598c830a37127453d3f32dde4d707a83b.SplashScreen">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Origami" android:parentActivityName="md5cf477656bc74ca4d3119ec13b9957bba.FirstView" android:name="md5cf477656bc74ca4d3119ec13b9957bba.DetailItemView" />
+    <activity android:label="OrigamiFun" android:name="md5cf477656bc74ca4d3119ec13b9957bba.FirstView" />
+    <activity android:label="IntroView" android:parentActivityName="md5cf477656bc74ca4d3119ec13b9957bba.FirstView" android:name="md598c830a37127453d3f32dde4d707a83b.IntroView" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="OrigamiAndroid.OrigamiAndroid.mono.MonoRuntimeProvider.__mono_init__" />
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.OrigamiAndroid.OrigamiAndroid" />
+      </intent-filter>
+    </receiver>
+  </application>
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+</manifest>

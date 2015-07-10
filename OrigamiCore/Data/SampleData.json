@@ -1,0 +1,1485 @@
+[
+    {
+        "UniqueId": "Group-1",
+        "Title": "Very Easy Origami",
+        "Subtitle": "Here we start with some very easy origami for kids, and build our way up to some slightly harder models for older kids, or children that need an extra challenge... ",
+        "ImagePath": "Assets/butterfly_l.gif",
+        "Description": "Here we start with some very easy origami for kids, and build our way up to some slightly harder models for older kids, or children that need an extra challenge... ",
+        "Items": [
+            {
+                "UniqueId": "Group-1-Item-1",
+                "Title": "Talking Dog",
+                "Subtitle": "The origami talking dog is really easy, and kids love it!\nYou'll need a marker to draw on the eyes, nose and tongue, so have fun!",
+                "ImagePath": "drinkingcup_l",
+                "Description": "The origami talking dog is really easy, and kids love it!\nYou'll need a marker to draw on the eyes, nose and tongue, so have fun!",
+                "Steps": [
+                    {
+                        "Header": "Talking Doggg",
+                        "Image": "Assets/EasyOrigami/talking dog/TalkingDog_l.gif",
+                        "Tutorial": "The origami talking dog is really easy, and kids love it!\nYou'll need a marker to draw on the eyes, nose and tongue, so have fun!"
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/EasyOrigami/talking dog/1.gif",
+                        "Tutorial": "Start with your paper white side up.Fold in half then open."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/EasyOrigami/talking dog/2.gif",
+                        "Tutorial": "Fold the top corner down to the bottom corner."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/EasyOrigami/talking dog/3.gif",
+                        "Tutorial": "Fold the two top corners down to the points shown."
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/EasyOrigami/talking dog/4.gif",
+                        "Tutorial": "Fold the uppermost layer of the bottom corner up a little way."
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/EasyOrigami/talking dog/5.gif",
+                        "Tutorial": "Fold this layer up again, from the top of the triangle as shown."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/EasyOrigami/talking dog/6.png",
+                        "Tutorial": "Add eyes and a nose to the dog’s face. If you like you can even add a tongue!"
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/EasyOrigami/talking dog/7.gif",
+                        "Tutorial": "Finished Talking Dog! To make your dog talk, hold the model by the ears and move back and forwards shown by the arrows."
+                    }
+                ]
+            },
+            {
+                "UniqueId": "Group-1-Item-2",
+                "Title": "Lady Bug",
+                "Subtitle": "Make the origami ladybug out of red or yellow paper, and then draw some pretty spots on it afterwards.",
+                "ImagePath": "ladybug",
+                "Description": "Make the origami ladybug out of red or yellow paper, and then draw some pretty spots on it afterwards.",
+                "Steps": [
+                    {
+                        "Header": "Lady Bug",
+                        "Image": "Assets/EasyOrigami/ladybug/Ladybug_l.gif",
+                        "Tutorial": "Make the origami ladybug out of red or yellow paper, and then draw some pretty spots on it afterwards."
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/EasyOrigami/ladybug/1.gif",
+                        "Tutorial": "Start with a square piece of paper, white side up. Fold in half."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/EasyOrigami/ladybug/2.gif",
+                        "Tutorial": "Fold this triangle in half, crease well then open."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/EasyOrigami/ladybug/3.gif",
+                        "Tutorial": "Fold the top 2 corners downwards, but not right to the centre line: leave a little gap."
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/EasyOrigami/ladybug/4.gif",
+                        "Tutorial": "Turn model over. Fold down top corner to the centre point of the model."
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/EasyOrigami/ladybug/5.gif",
+                        "Tutorial": "Now fold this corner upwards, and flatten."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/EasyOrigami/ladybug/6.gif",
+                        "Tutorial": "Turn back over. Finished Ladybug."
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/EasyOrigami/ladybug/Ladybug_l.gif",
+                        "Tutorial": "LADY BUG"
+                    }
+                ]
+            },
+            {
+                "UniqueId": "Group-1-Item-3",
+                "Title": "Lucky Start",
+                "Subtitle": "The origami lucky star is so easy to make, but it looks so pretty... soon you'll be making hundreds!\nYou make it with a strip of paper. A good starting size is about 30cm, or 1 foot long, and about 1cm wide, or about half an inch.\nOnce you have made a couple, you can choose the length and width that you think makes the best star.",
+                "ImagePath": "luckystars_l",
+                "Description": "The origami lucky star is so easy to make, but it looks so pretty... soon you'll be making hundreds!\nYou make it with a strip of paper. A good starting size is about 30cm, or 1 foot long, and about 1cm wide, or about half an inch.\nOnce you have made a couple, you can choose the length and width that you think makes the best star.",
+                "Steps": [
+                    {
+                        "Header": "Lucky Start",
+                        "Image": "Assets/EasyOrigami/Lucky start/LuckyStars_l.gif",
+                        "Tutorial": "The origami lucky star is so easy to make, but it looks so pretty... soon you'll be making hundreds!\nYou make it with a strip of paper. A good starting size is about 30cm, or 1 foot long, and about 1cm wide, or about half an inch.\nOnce you have made a couple, you can choose the length and width that you think makes the best star."
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/EasyOrigami/Lucky start/1.gif",
+                        "Tutorial": "Start with a strip of paper. Tie a knot in the end of your paper."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/EasyOrigami/Lucky start/2.gif",
+                        "Tutorial": "Pull gently to tighten, then flatten."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/EasyOrigami/Lucky start/3.gif",
+                        "Tutorial": "Fold the end of the strip down and tuck it into the knot.\nYou can cut a bit of it off if it's too long."
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/EasyOrigami/Lucky start/4.gif",
+                        "Tutorial": "Now wrap the other end of the strip around and around this pentagon you have formed, creasing gently as you go."
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/EasyOrigami/Lucky start/5.gif",
+                        "Tutorial": "Keep wrapping until you get to the end of the strip.\nTuck the last bit of the strip into the pouch. You should be left with a cute little pentagon."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/EasyOrigami/Lucky start/6.gif",
+                        "Tutorial": "Now to make this little pentagon into a star, very gently and slowly use your fingernail to press on the centre of each of its edges. The star should puff out."
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/EasyOrigami/Lucky start/Star-Lucky-Star7.gif",
+                        "Tutorial": "And you should have a lovely little lucky star!\nIt may take some practise to get the star to puff out perfectly, but stick with it... you’ll get it!"
+                    }
+                ]
+            },
+            {
+                "UniqueId": "Group-1-Item-4",
+                "Title": "Simple Hat",
+                "Subtitle": "The Origami Hat is a great model for kids to make, because it's so simple and fun to wear afterwards!\nUse a large piece of paper, or newspaper for this design.",
+                "ImagePath": "hat_l",
+                "Description": "The Origami Hat is a great model for kids to make, because it's so simple and fun to wear afterwards!\nUse a large piece of paper, or newspaper for this design.",
+                "Steps": [
+                    {
+                        "Header": "Simple Hat",
+                        "Image": "Assets/EasyOrigami/Origami Hat/Hat_l.gif",
+                        "Tutorial": "The Origami Hat is a great model for kids to make, because it's so simple and fun to wear afterwards!\nUse a large piece of paper, or newspaper for this design."
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/EasyOrigami/Origami Hat/1.png",
+                        "Tutorial": "Start with a rectangular piece of paper, white side up. Fold the paper in half and open."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/EasyOrigami/Origami Hat/2.png",
+                        "Tutorial": "Now fold the top down to the bottom edge. Crease well."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/EasyOrigami/Origami Hat/3.png",
+                        "Tutorial": "Fold the top corners down to the centre line."
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/EasyOrigami/Origami Hat/4.gif",
+                        "Tutorial": "Fold the bottom edge (uppermost layer only) up to the base of the triangles."
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/EasyOrigami/Origami Hat/5.gif",
+                        "Tutorial": "Fold this part up once again, and crease well."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/EasyOrigami/Origami Hat/6.gif",
+                        "Tutorial": "Turn model over, and repeat step 4 & 5 on the other side."
+                    },
+                    {
+                        "Header": "Step 7",
+                        "Image": "Assets/EasyOrigami/Origami Hat/7.gif",
+                        "Tutorial": "Open out the hat to shape it,Your hat is now finished!"
+                    }
+                ]
+            },
+            {
+                "UniqueId": "Group-1-Item-5",
+                "Title": "Pelican",
+                "Subtitle": "This beautiful origami pelican is simple and elegant, and it will stand up by itself. Use a small sheet of square paper to create this pretty design.",
+                "ImagePath": "pelican",
+                "Description": "This beautiful origami pelican is simple and elegant, and it will stand up by itself. Use a small sheet of square paper to create this pretty design.",
+                "Steps": [
+                    {
+                        "Header": "Pelican",
+                        "Image": "Assets/EasyOrigami/Origami Pelican/pelican.jpg",
+                        "Tutorial": "This beautiful origami pelican is simple and elegant, and it will stand up by itself. Use a small sheet of square paper to create this pretty design."
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/EasyOrigami/Origami Pelican/1.gif",
+                        "Tutorial": "Start with your paper white side up. Fold in half, along the line shown, then open out again."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/EasyOrigami/Origami Pelican/2.gif",
+                        "Tutorial": "Fold the outside corners into the centre line, and crease well."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/EasyOrigami/Origami Pelican/3.png",
+                        "Tutorial": "Fold the outside edges into the centre once again."
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/EasyOrigami/Origami Pelican/4.png",
+                        "Tutorial": "Turn model over and fold bottom point up to the top point. Crease very well."
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/EasyOrigami/Origami Pelican/5.png",
+                        "Tutorial": "Fold in half."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/EasyOrigami/Origami Pelican/6.png",
+                        "Tutorial": "Rotate model so it is now lying down."
+                    },
+                    {
+                        "Header": "Step 7",
+                        "Image": "Assets/EasyOrigami/Origami Pelican/7.png",
+                        "Tutorial": "Raise the inside triangle upwards slowly, then flatten and crease well."
+                    },
+                    {
+                        "Header": "Step 8",
+                        "Image": "Assets/EasyOrigami/Origami Pelican/8.gif",
+                        "Tutorial": "Inside Reverse Fold the head along the crease shown."
+                    },
+                    {
+                        "Header": "Step 9",
+                        "Image": "Assets/EasyOrigami/Origami Pelican/9.gif",
+                        "Tutorial": "Fold each wing upward as shown, then fold it back again slightly. The pelican will now rest on its wings and sit up."
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/EasyOrigami/Origami Pelican/finished.gif",
+                        "Tutorial": "Finished Pelican!"
+                    }
+                ]
+            },
+            {
+                "UniqueId": "Group-1-Item-6",
+                "Title": "Jumping Frog",
+                "Subtitle": "The Origami Jumping Frog is really easy to make... To make the frog jump to its best potential, use paper that's a bit thicker. You will need to use rectangular paper for this model.",
+                "ImagePath": "jumpingfrog",
+                "Description": "The Origami Jumping Frog is really easy to make... To make the frog jump to its best potential, use paper that's a bit thicker. You will need to use rectangular paper for this model.",
+                "Steps": [
+                    {
+                        "Header": "Jumping Frog",
+                        "Image": "Assets/EasyOrigami/Jumping Frog/JumpingFrog.jpg",
+                        "Tutorial": "The Origami Jumping Frog is really easy to make... To make the frog jump to its best potential, use paper that's a bit thicker. You will need to use rectangular paper for this model."
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/EasyOrigami/Jumping Frog/1.png",
+                        "Tutorial": "Start with a rectangular sheet of paper, white side up. Fold it in half, and open out again"
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/EasyOrigami/Jumping Frog/2.png",
+                        "Tutorial": "Fold both top corners to the opposite edge of the paper then unfold. Your creases should look like this."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/EasyOrigami/Jumping Frog/3.gif",
+                        "Tutorial": "Where the diagonal creases meet in the middle, fold the paper backwards, crease well and open."
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/EasyOrigami/Jumping Frog/4.png",
+                        "Tutorial": "Hold the paper at the sides, bring these points down to the centre line, then flatten. The creases should do most of the work here!"
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/EasyOrigami/Jumping Frog/5.png",
+                        "Tutorial": "Fold the uppermost triangles up to the top point."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/EasyOrigami/Jumping Frog/6.png",
+                        "Tutorial": "Fold sides in to the centre line."
+                    },
+                    {
+                        "Header": "Step 7",
+                        "Image": "Assets/EasyOrigami/Jumping Frog/7.png",
+                        "Tutorial": "Fold bottom of model upwards so the end sits in the centre of the top diamond."
+                    },
+                    {
+                        "Header": "Step 8",
+                        "Image": "Assets/EasyOrigami/Jumping Frog/8.png",
+                        "Tutorial": "Now fold the same part downwards, in half."
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/EasyOrigami/Jumping Frog/9.gif",
+                        "Tutorial": "Turn over, your Jumping Frog is finished! To make him jump, press down on his back as shown."
+                    }
+                ]
+            },
+            {
+                "UniqueId": "Group-1-Item-7",
+                "Title": "Drinking Cup",
+                "Subtitle": "The origami drinking cup is a traditional and popular design, and if you make it out of grease proof paper, you can actually use it as a real cup!",
+                "ImagePath": "drinkingcup_l",
+                "Description": "Make the origami ladybug out of red or yellow paper, and then draw some pretty spots on it afterwards.",
+                "Steps": [
+                    {
+                        "Header": "Drinking Cup",
+                        "Image": "Assets/EasyOrigami/Drinking Cup/DrinkingCup_l.gif",
+                        "Tutorial": "The origami drinking cup is a traditional and popular design, and if you make it out of grease proof paper, you can actually use it as a real cup!"
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/EasyOrigami/Drinking Cup/1.gif",
+                        "Tutorial": "Start with your paper white side up. Fold in half, as shown."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/EasyOrigami/Drinking Cup/2.gif",
+                        "Tutorial": "Fold the top corner down to the baseline. Crease well and unfold."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/EasyOrigami/Drinking Cup/3.gif",
+                        "Tutorial": "Fold the bottom left hand corner up to the crease line just made."
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/EasyOrigami/Drinking Cup/4.gif",
+                        "Tutorial": "Now fold the bottom right hand corner up to the opposite side."
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/EasyOrigami/Drinking Cup/5.gif",
+                        "Tutorial": "Fold the front flap downwards."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/EasyOrigami/Drinking Cup/6.gif",
+                        "Tutorial": "Now fold the back top flap backwards inthe same manner."
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/EasyOrigami/Drinking Cup/7.gif",
+                        "Tutorial": "Open out. Your drinking cup is finished!"
+                    }
+                ]
+            },
+            {
+                "UniqueId": "Group-1-Item-8",
+                "Title": "Sail Boats",
+                "Subtitle": "In this diagram, you can make two origami sail boats out of one piece of paper.",
+                "ImagePath": "sailboats_l",
+                "Description": "Make the origami ladybug out of red or yellow paper, and then draw some pretty spots on it afterwards.",
+                "Steps": [
+                    {
+                        "Header": "Sail Boats",
+                        "Image": "Assets/EasyOrigami/Sail Boats/SailBoats_l.gif",
+                        "Tutorial": "In this diagram, you can make two origami sail boats out of one piece of paper."
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/EasyOrigami/Sail Boats/1.png",
+                        "Tutorial": "Start with a square piece of paper, white side up. Fold the paper in half, then open.Cut the paper in half along this crease."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/EasyOrigami/Sail Boats/2.png",
+                        "Tutorial": "With one of the triangles, fold in half, and open."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/EasyOrigami/Sail Boats/3.gif",
+                        "Tutorial": "Fold the top corner downwards to meet the bottom edge of the triangle."
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/EasyOrigami/Sail Boats/4.png",
+                        "Tutorial": "Fold the two bottom corners upwards to meet together in the middle."
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/EasyOrigami/Sail Boats/5.png",
+                        "Tutorial": "Fold the bottom corner up to the centre of the model. Then turn the model over."
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/EasyOrigami/Sail Boats/6.png",
+                        "Tutorial": "Finished Sail boat.\nNow you can make another one with the other triangle, and you will have two sail boats!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "UniqueId": "Group-2",
+        "Title": "Origami Animal",
+        "Subtitle": "Here we start with some very easy origami for kids, and build our way up to some slightly harder models for older kids, or children that need an extra challenge... ",
+        "ImagePath": "Assets/butterfly_l.gif",
+        "Description": "Here we start with some very easy origami for kids, and build our way up to some slightly harder models for older kids, or children that need an extra challenge... ",
+        "Items": [
+            {
+                "UniqueId": "Group-2-Item-1",
+                "Title": "Horse",
+                "Subtitle": "The fantastic origami horse is a favourite amongst anyone who has made it! It's a simple model to make, and once you have finished... just a sharp tap on the tail and the horse will flip for you!",
+                "ImagePath": "Assets/Origami Animal/horse/horse_L.gif",
+                "Description": "The fantastic origami horse is a favourite amongst anyone who has made it! It's a simple model to make, and once you have finished... just a sharp tap on the tail and the horse will flip for you!",
+                "Steps": [
+                    {
+                        "Header": "Horse",
+                        "Image": "Assets/Origami Animal/horse/horse_L.gif",
+                        "Tutorial": "The fantastic origami horse is a favourite amongst anyone who has made it! It's a simple model to make, and once you have finished... just a sharp tap on the tail and the horse will flip for you!"
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/Origami Animal/horse/1.gif",
+                        "Tutorial": "Start with a square piece of paper, coloured side up. Fold the paper in half, crease well and open, and then fold again in the other direction."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/Origami Animal/horse/2.png",
+                        "Tutorial": "Turn the paper over to the white side. Fold the paper in half, crease well and open, and then fold again in the other direction. Your creases should look like this."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/Origami Animal/horse/3.png",
+                        "Tutorial": "Using the creases you have made, bring the top 3 corners of the model down to the bottom corner. Flatten model."
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/Origami Animal/horse/4.gif",
+                        "Tutorial": "Fold upper layer's outside corners toward centre line, then fold the top downward along the crease shown. Unfold."
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/Origami Animal/horse/5.gif",
+                        "Tutorial": "Cut only top layer up to the top crease."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/Origami Animal/horse/6.gif",
+                        "Tutorial": "Fold the legs upwards along the creases shown."
+                    },
+                    {
+                        "Header": "Step 7",
+                        "Image": "Assets/Origami Animal/horse/7.gif",
+                        "Tutorial": "Fold these sections in half, toward the centre."
+                    },
+                    {
+                        "Header": "Step 8",
+                        "Image": "Assets/Origami Animal/horse/8.gif",
+                        "Tutorial": "Turn model over and repeat steps 4-7 on other side. The model should now look like this."
+                    },
+                    {
+                        "Header": "Step 9",
+                        "Image": "Assets/Origami Animal/horse/9.gif",
+                        "Tutorial": "Rotate model and make creases as shown. Unfold."
+                    },
+                    {
+                        "Header": "Step 10",
+                        "Image": "Assets/Origami Animal/horse/10.gif",
+                        "Tutorial": "Inside Reverse Fold the head and the tail. Finished Horse!"
+                    },
+                    {
+                        "Header": "Optional Step",
+                        "Image": "Assets/Origami Animal/horse/11.gif",
+                        "Tutorial": "Blunt the 4 feet of the horse by folding the tips upward on the inside of the model."
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/Origami Animal/horse/12.gif",
+                        "Tutorial": "To make the horse do a somersault, sharply tap upwards under his tail."
+                    }
+                ]
+            },
+            {
+                "UniqueId": "Group-2-Item-2",
+                "Title": "Bird",
+                "Subtitle": "This beautiful traditional origami bird is actually quite easy to make, and if you fold the feet at just the right angle, it will stand up! For the best looking bird, you can use paper thats coloured on both sides: but white on the bird still looks nice if you dont have any double sided paper.",
+                "ImagePath": "Assets/Origami Animal/bird/Bird_L.gif",
+                "Description": "This beautiful traditional origami bird is actually quite easy to make, and if you fold the feet at just the right angle, it will stand up! For the best looking bird, you can use paper thats coloured on both sides: but white on the bird still looks nice if you dont have any double sided paper.",
+                "Steps": [
+                    {
+                        "Header": "Bird",
+                        "Image": "Assets/Origami Animal/bird/Bird_L.gif",
+                        "Tutorial": "This beautiful traditional origami bird is actually quite easy to make, and if you fold the feet at just the right angle, it will stand up! For the best looking bird, you can use paper thats coloured on both sides: but white on the bird still looks nice if you dont have any double sided paper."
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/Origami Animal/bird/1.png",
+                        "Tutorial": "Start with your paper white side up. Fold in half, as shown."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/Origami Animal/bird/2.png",
+                        "Tutorial": "Fold the outside corners into the centre line, and crease well."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/Origami Animal/bird/3.png",
+                        "Tutorial": "Fold the top triangle backwards"
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/Origami Animal/bird/4.png",
+                        "Tutorial": "Fold the corners of the model in toward the centre, crease well, then open again."
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/Origami Animal/bird/5.png",
+                        "Tutorial": "Bring the highlighted corner up and outward using the crease shown. Then bring the highlighted corner back down toward the centre line and flatten."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/Origami Animal/bird/6.gif",
+                        "Tutorial": "Repeat this step on the opposite corner... the model should now look like this."
+                    },
+                    {
+                        "Header": "Step 7",
+                        "Image": "Assets/Origami Animal/bird/7.gif",
+                        "Tutorial": "Fold the outermost corners backwards on the angle shown and crease well."
+                    },
+                    {
+                        "Header": "Step 8",
+                        "Image": "Assets/Origami Animal/bird/8.gif",
+                        "Tutorial": "Mountain fold the model in half. (Fold backwards)."
+                    },
+                    {
+                        "Header": "Step 9",
+                        "Image": "Assets/Origami Animal/bird/9.gif",
+                        "Tutorial": "Rotate the model slightly so you can see the bird forming."
+                    },
+                    {
+                        "Header": "Step 10",
+                        "Image": "Assets/Origami Animal/bird/10.gif",
+                        "Tutorial": "Make these creases and unfold."
+                    },
+                    {
+                        "Header": "Step 11",
+                        "Image": "Assets/Origami Animal/bird/11.gif",
+                        "Tutorial": "Using these creases, inside reverse fold to make the head and the tail of the bird."
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/Origami Animal/bird/12.gif",
+                        "Tutorial": "Finished bird!"
+                    }
+                ]
+            },
+            {
+                "UniqueId": "Group-2-Item-3",
+                "Title": "Flapping Bird",
+                "Subtitle": "This origami flapping bird is similar to the crane except for one important detail: it can flap its wings!",
+                "ImagePath": "Assets/Origami Animal/Flapping Bird/400xNxFlappingBird_l.gif.pagespeed.ic.4kzO5wzp_y.png",
+                "Description": "This origami flapping bird is similar to the crane except for one important detail: it can flap its wings!",
+                "Steps": [
+                    {
+                        "Header": "Flapping Bird",
+                        "Image": "Assets/Origami Animal/Flapping Bird/1.png",
+                        "Tutorial": "This origami flapping bird is similar to the crane except for one important detail: it can flap its wings!"
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/Origami Animal/Flapping Bird/1.png",
+                        "Tutorial": "Start with a square piece of paper, coloured side up. Fold the top corner of the paper down to the bottom corner. Crease and open again. Then fold the paper in half sideways."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/Origami Animal/Flapping Bird/2.png",
+                        "Tutorial": "Turn the paper over to the white side. Fold the paper in half, crease well and open, and then fold again in the other direction."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/Origami Animal/Flapping Bird/3.png",
+                        "Tutorial": "Using the creases you have made, Bring the top 3 corners of the model down to the bottom corner. Flatten model."
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/Origami Animal/Flapping Bird/4.gif",
+                        "Tutorial": "Fold top triangular flaps into the centre and unfold."
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/Origami Animal/Flapping Bird/5.gif",
+                        "Tutorial": "Fold top of model downwards, crease well and unfold."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/Origami Animal/Flapping Bird/6.png",
+                        "Tutorial": "Open the uppermost flap of the model, bringing it upwards and pressing the sides of the model inwards at the same time. Flatten down, creasing well."
+                    },
+                    {
+                        "Header": "Step 7",
+                        "Image": "Assets/Origami Animal/Flapping Bird/7.png",
+                        "Tutorial": "Turn model over and repeat Steps 4-6 on the other side."
+                    },
+                    {
+                        "Header": "Step 8",
+                        "Image": "Assets/Origami Animal/Flapping Bird/8.png",
+                        "Tutorial": "Fold legs upward along the outside edges, then open again."
+                    },
+                    {
+                        "Header": "Step 9",
+                        "Image": "Assets/Origami Animal/Flapping Bird/9.png",
+                        "Tutorial": "Use these creases to inside reverse fold these parts."
+                    },
+                    {
+                        "Header": "Step 10",
+                        "Image": "Assets/Origami Animal/Flapping Bird/10.gif",
+                        "Tutorial": "Inside reverse fold the head, and fold down the wings as shown. Then partially open them up again."
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/Origami Animal/Flapping Bird/11.gif",
+                        "Tutorial": "Finished flapping bird. To make the wings flap forward, pull the tail gently outwards. For more detail, check the video at the top of the page!"
+                    }
+                ]
+            },
+            {
+                "UniqueId": "Group-2-Item-4",
+                "Title": "Twirling Bird",
+                "Subtitle": "The origami twirling bird is one of the easiest models to make, but its also so much fun! Try using different types of paper to see which one will twirl the best.",
+                "ImagePath": "Assets/Origami Animal/Twirling Bird/Twirling-Bird_l.gif",
+                "Description": "The origami twirling bird is one of the easiest models to make, but its also so much fun! Try using different types of paper to see which one will twirl the best.",
+                "Steps": [
+                    {
+                        "Header": "Twirling Bird",
+                        "Image": "Assets/Origami Animal/Twirling Bird/Twirling-Bird_l.gif",
+                        "Tutorial": "The origami twirling bird is one of the easiest models to make, but its also so much fun! Try using different types of paper to see which one will twirl the best."
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/Origami Animal/Twirling Bird/1.gif",
+                        "Tutorial": "Start with your paper white side up. Fold in half, as shown."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/Origami Animal/Twirling Bird/2.gif",
+                        "Tutorial": "Fold in half again, crease and open."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/Origami Animal/Twirling Bird/3.gif",
+                        "Tutorial": "Now fold top of model down past the baseline of the model."
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/Origami Animal/Twirling Bird/4.gif",
+                        "Tutorial": "Fold whole model in half."
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/Origami Animal/Twirling Bird/5.gif",
+                        "Tutorial": "Rotate model so it is now standing up."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/Origami Animal/Twirling Bird/6.gif",
+                        "Tutorial": "Fold down the top flap along the line shown. Then repeat the same thing on the flap behind."
+                    },
+                    {
+                        "Header": "Step 7",
+                        "Image": "Assets/Origami Animal/Twirling Bird/7.gif",
+                        "Tutorial": "Now fold the wings back upwards so they sit horizontally, as shown."
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/Origami Animal/Twirling Bird/8.gif",
+                        "Tutorial": "Twirling bird is complete! To make the Twirling Bird fly, throw it like a paper plane. It will tumble in circles!"
+                    }
+                ]
+            },
+            {
+                "UniqueId": "Group-2-Item-5",
+                "Title": "Tortoise",
+                "Subtitle": "The origami tortoise is a great little model: its easy to make and it will stand there and look cute! You will need some scissors to make this model.",
+                "ImagePath": "Assets/Origami Animal/tortoise/168607-425x319-origami-turtle-06.JPG",
+                "Description": "The origami tortoise is a great little model: its easy to make and it will stand there and look cute! You will need some scissors to make this model.",
+                "Steps": [
+                    {
+                        "Header": "Tortoise",
+                        "Image": "Assets/Origami Animal/tortoise/168607-425x319-origami-turtle-06.JPG",
+                        "Tutorial": "The origami tortoise is a great little model: its easy to make and it will stand there and look cute! You will need some scissors to make this model."
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/Origami Animal/tortoise/1.gif",
+                        "Tutorial": "Start with your paper white side up. Fold in half, as shown, and open."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/Origami Animal/tortoise/2.gif",
+                        "Tutorial": "Now fold the top corner down to the bottom corner."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/Origami Animal/tortoise/3.png",
+                        "Tutorial": "Fold the outside corners in to the centre line."
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/Origami Animal/tortoise/4.png",
+                        "Tutorial": "Fold these same triangles upwards to the top point."
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/Origami Animal/tortoise/5.png",
+                        "Tutorial": "Fold only the uppermost layers outwards as shown."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/Origami Animal/tortoise/6.gif",
+                        "Tutorial": "Cut ONLY the top layer up to the centre of the model."
+                    },
+                    {
+                        "Header": "Step 7",
+                        "Image": "Assets/Origami Animal/tortoise/7.gif",
+                        "Tutorial": "Fold out the bottom flaps as you did in Step 5."
+                    },
+                    {
+                        "Header": "Step 8",
+                        "Image": "Assets/Origami Animal/tortoise/8.gif",
+                        "Tutorial": "Fold the 2 sides in to the centrew, and the top point downwards as shown."
+                    },
+                    {
+                        "Header": "Step 9",
+                        "Image": "Assets/Origami Animal/tortoise/9.gif",
+                        "Tutorial": "Now fold up."
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/Origami Animal/tortoise/10.gif",
+                        "Tutorial": "Turn Over, your Tortoise is finished!"
+                    }
+                ]
+            },
+            {
+                "UniqueId": "Group-2-Item-6",
+                "Title": "Puffy Bunny",
+                "Subtitle": "Aren't they gorgeous?! This lovely origami puffy bunny is bound to win hearts! Try with two-tone paper for a colourful effect.",
+                "ImagePath": "Assets/Origami Animal/puffy bunny/puffy-bunnies_L.gif",
+                "Description": "Aren't they gorgeous?! This lovely origami puffy bunny is bound to win hearts! Try with two-tone paper for a colourful effect.",
+                "Steps": [
+                    {
+                        "Header": "Puffy Bunny",
+                        "Image": "Assets/Origami Animal/puffy bunny/puffy-bunnies_L.gif",
+                        "Tutorial": "Aren't they gorgeous?! This lovely origami puffy bunny is bound to win hearts! Try with two-tone paper for a colourful effect."
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/Origami Animal/puffy bunny/1.png",
+                        "Tutorial": "Start with your paper white side up. Fold in half, then in half again, as shown. Crease well, then open out again."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/Origami Animal/puffy bunny/2.png",
+                        "Tutorial": "Turn the paper over and fold in half diagonally and in both directions. Crease well and open out once again."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/Origami Animal/puffy bunny/3.png",
+                        "Tutorial": "Holding the points shown, bring them both down to the centre point on the bottom line. Flatten model. This is called a waterbomb base."
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/Origami Animal/puffy bunny/4.gif",
+                        "Tutorial": "Fold front triangles in to centre line."
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/Origami Animal/puffy bunny/5.gif",
+                        "Tutorial": "Fold edges to centre line."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/Origami Animal/puffy bunny/6.gif",
+                        "Tutorial": "Fold front flaps of top triangles downwards, creasing well."
+                    },
+                    {
+                        "Header": "Step 7",
+                        "Image": "Assets/Origami Animal/puffy bunny/7.gif",
+                        "Tutorial": "Fold again, diagonally, then tuck into pockets."
+                    },
+                    {
+                        "Header": "Step 8",
+                        "Image": "Assets/Origami Animal/puffy bunny/8.gif",
+                        "Tutorial": "Turn over and fold bottom corners in to centre."
+                    },
+                    {
+                        "Header": "Step 9",
+                        "Image": "Assets/Origami Animal/puffy bunny/9.gif",
+                        "Tutorial": "Fold front flap to the left."
+                    },
+                    {
+                        "Header": "Step 10",
+                        "Image": "Assets/Origami Animal/puffy bunny/10.gif",
+                        "Tutorial": "Crease front flap into toward centre line."
+                    },
+                    {
+                        "Header": "Step 11",
+                        "Image": "Assets/Origami Animal/puffy bunny/11.gif",
+                        "Tutorial": "Move top flap to the right."
+                    },
+                    {
+                        "Header": "Step 12",
+                        "Image": "Assets/Origami Animal/puffy bunny/12.gif",
+                        "Tutorial": "Move the next flap to the right"
+                    },
+                    {
+                        "Header": "Step 13",
+                        "Image": "Assets/Origami Animal/puffy bunny/13.gif",
+                        "Tutorial": "Crease top flap in toward centre line."
+                    },
+                    {
+                        "Header": "Step 14",
+                        "Image": "Assets/Origami Animal/puffy bunny/14.gif",
+                        "Tutorial": "Move top flap to the left."
+                    },
+                    {
+                        "Header": "Step 15",
+                        "Image": "Assets/Origami Animal/puffy bunny/15.gif",
+                        "Tutorial": "Fold top layers outward along creases shown."
+                    },
+                    {
+                        "Header": "Step 16",
+                        "Image": "Assets/Origami Animal/puffy bunny/16.gif",
+                        "Tutorial": "Open out the ears."
+                    },
+                    {
+                        "Header": "Step 17",
+                        "Image": "Assets/Origami Animal/puffy bunny/17.gif",
+                        "Tutorial": "Fold nose under to form crease shown. Then fold back again."
+                    },
+                    {
+                        "Header": "Step 18",
+                        "Image": "Assets/Origami Animal/puffy bunny/18.gif",
+                        "Tutorial": " To inflate bunny, blow into its nose!"
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/Origami Animal/puffy bunny/19.gif",
+                        "Tutorial": "Finished Puffy Bunny."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "UniqueId": "Group-3",
+        "Title": "Origami Toy",
+        "Subtitle": "This wonderful collection of origami toys will have the kids (and adults) entertained for hours! So what do you do when there's no toys around? Make them! All you need is a piece of paper!",
+        "ImagePath": "Assets/butterfly_l.gif",
+        "Description": "Here we start with some very easy origami for kids, and build our way up to some slightly harder models for older kids, or children that need an extra challenge... ",
+        "Items": [
+            {
+                "UniqueId": "Group-3-Item-1",
+                "Title": "Monkey Mountain",
+                "Subtitle": "The origami monkey and the mountain toy is so much fun to play with! You cut the top off the mountain, and this becomes the monkey, then you place the monkey under the mountain, and it climbs all the way to the top...then falls off!",
+                "ImagePath": "Assets/Origami Toy/Monkey and the Mountain/MonkeyMountain_l.gif",
+                "Description": "The fantastic origami horse is a favourite amongst anyone who has made it! It's a simple model to make, and once you have finished... just a sharp tap on the tail and the horse will flip for you!",
+                "Steps": [
+                    {
+                        "Header": "Monkey Mountain",
+                        "Image": "Assets/Origami Toy/Monkey and the Mountain/MonkeyMountain_l.gif",
+                        "Tutorial": "The origami monkey and the mountain toy is so much fun to play with! You cut the top off the mountain, and this becomes the monkey, then you place the monkey under the mountain, and it climbs all the way to the top...then falls off!"
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/Origami Toy/Monkey and the Mountain/1.png",
+                        "Tutorial": "Start with a square piece of paper, coloured side up. Fold in half in 2 directions."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/Origami Toy/Monkey and the Mountain/2.png",
+                        "Tutorial": "Turn the paper over to the white side. Fold the paper in half, crease well and open, and then fold again in the other direction."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/Origami Toy/Monkey and the Mountain/3.png",
+                        "Tutorial": "Using the creases you have made, Bring the top 3 corners of the model down to the bottom corner. Flatten model."
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/Origami Toy/Monkey and the Mountain/4.gif",
+                        "Tutorial": "Cut the top of the model off: this is the monkey!"
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/Origami Toy/Monkey and the Mountain/5.gif",
+                        "Tutorial": "Fold uppermost flap upwards along the line shown. Repeat this step on the flap on the back of the model."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/Origami Toy/Monkey and the Mountain/6.gif",
+                        "Tutorial": "Now put the monkey in between the 2 bottom triangles."
+                    },
+                    {
+                        "Header": "Step 7",
+                        "Image": "Assets/Origami Toy/Monkey and the Mountain/7.gif",
+                        "Tutorial": "The monkey is ready to climb the mountain! To get him to climb, move the bottom triangles up and down, keeping them together."
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/Origami Toy/Monkey and the Mountain/8.gif",
+                        "Tutorial": "The monkey will climb all the way to the top if you keep shuffling the mountain... and then he pops out the top!"
+                    }
+                ]
+            },
+            {
+                "UniqueId": "Group-3-Item-2",
+                "Title": "Fortune Teller",
+                "Subtitle": "Making the origami Fortune Teller toy is a great little activity for kids, because after they've made it... they can play with it!",
+                "ImagePath": "Assets/Origami Toy/Fortune Teller/fortune-teller_L.gif",
+                "Description": "This beautiful traditional origami bird is actually quite easy to make, and if you fold the feet at just the right angle, it will stand up! For the best looking bird, you can use paper thats coloured on both sides: but white on the bird still looks nice if you dont have any double sided paper.",
+                "Steps": [
+                    {
+                        "Header": "Fortune Teller",
+                        "Image": "Assets/Origami Toy/Fortune Teller/fortune-teller_L.gif",
+                        "Tutorial": "Making the origami Fortune Teller toy is a great little activity for kids, because after they've made it... they can play with it!"
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/Origami Toy/Fortune Teller/1.gif",
+                        "Tutorial": "Start with white side up. Fold diagonally in both directions."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/Origami Toy/Fortune Teller/2.gif",
+                        "Tutorial": "Fold each corner into the centre point."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/Origami Toy/Fortune Teller/3.gif",
+                        "Tutorial": "Turn over and again fold each corner into the centre point."
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/Origami Toy/Fortune Teller/4.gif",
+                        "Tutorial": "Fold in half along creases shown, both ways, and open."
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/Origami Toy/Fortune Teller/5.gif",
+                        "Tutorial": "Number each segment from 1-8."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/Origami Toy/Fortune Teller/6.gif",
+                        "Tutorial": "Open up each flap and write a fortune in each segment. Below are some examples of fortunes you can write, but you can also make up your own."
+                    },
+                    {
+                        "Header": "Step 7",
+                        "Image": "Assets/Origami Toy/Fortune Teller/7.gif",
+                        "Tutorial": "Turn the model over and write a colour on each flap as shown."
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/Origami Toy/Fortune Teller/8.gif",
+                        "Tutorial": "Finished Fortune Teller. Use your fingers to open it up."
+                    }
+                ]
+            },
+            {
+                "UniqueId": "Group-3-Item-3",
+                "Title": "Samurai Hat",
+                "Subtitle": "The origami samurai hat is a great traditional model that is so simple to make, and wear!",
+                "ImagePath": "Assets/Origami Toy/Samurai Hat/samurai-hat_L.gif",
+                "Description": "This origami flapping bird is similar to the crane except for one important detail: it can flap its wings!",
+                "Steps": [
+                    {
+                        "Header": "Samurai Hat",
+                        "Image": "Assets/Origami Toy/Samurai Hat/samurai-hat_L.gif",
+                        "Tutorial": "The origami samurai hat is a great traditional model that is so simple to make, and wear!"
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/Origami Toy/Samurai Hat/1.gif",
+                        "Tutorial": "Start with paper white side up. Fold in half downwards."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/Origami Toy/Samurai Hat/2.gif",
+                        "Tutorial": "Fold outer corners in to the centre."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/Origami Toy/Samurai Hat/3.gif",
+                        "Tutorial": "Fold top layer only upwards in half."
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/Origami Toy/Samurai Hat/4.gif",
+                        "Tutorial": "Fold top layers outwards along creases shown."
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/Origami Toy/Samurai Hat/5.gif",
+                        "Tutorial": "Fold top layer only upwards along the crease shown."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/Origami Toy/Samurai Hat/6.gif",
+                        "Tutorial": "Fold same top layer upwards gain."
+                    },
+                    {
+                        "Header": "Step 7",
+                        "Image": "Assets/Origami Toy/Samurai Hat/7.gif",
+                        "Tutorial": "Fold the bottom layer upwards to crease, and open again."
+                    },
+                    {
+                        "Header": "Step 8",
+                        "Image": "Assets/Origami Toy/Samurai Hat/8.gif",
+                        "Tutorial": "Tuck this layer into the inside of hat."
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/Origami Toy/Samurai Hat/9.gif",
+                        "Tutorial": "Finished Samurai Hat."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "UniqueId": "Group-4",
+        "Title": "Flower Origami",
+        "Subtitle": "Some of the most beautiful origami models are the origami flowers... they look so stunning when made with either plain of pattered paper, and displayed in groups!",
+        "ImagePath": "Assets/Blossoms_l.gif",
+        "Description": "Here we start with some very easy origami for kids, and build our way up to some slightly harder models for older kids, or children that need an extra challenge... ",
+        "Items": [
+            {
+                "UniqueId": "Group-4-Item-1",
+                "Title": "Blossom",
+                "Subtitle": "The origami blossom is a great model for both beginners and advanced origami lovers: as it is simple, yet can look so gorgeous: especially when put in large bunches of blossoms. Make them with tiny, thin pieces of paper of all different colours for a beautiful display.",
+                "ImagePath": "blossoms_l",
+                "Description": "The origami talking dog is really easy, and kids love it!\nYou'll need a marker to draw on the eyes, nose and tongue, so have fun!",
+                "Steps": [
+                    {
+                        "Header": "Blossom",
+                        "Image": "Assets/FlowerOrigami/Blossom/Blossoms_l.gif",
+                        "Tutorial": "The origami blossom is a great model for both beginners and advanced origami lovers: as it is simple, yet can look so gorgeous: especially when put in large bunches of blossoms. Make them with tiny, thin pieces of paper of all different colours for a beautiful display."
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/FlowerOrigami/Blossom/1.png",
+                        "Tutorial": "Start with a square piece of paper, white side up. Fold in half and open. Then fold in half the other way."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/FlowerOrigami/Blossom/2.png",
+                        "Tutorial": "Turn the paper over to the coloured side.Fold the paper in half, crease well and open, and then fold again in the other direction."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/FlowerOrigami/Blossom/3.png",
+                        "Tutorial": "Using the creases you have made, Bring the top 3 corners of the model down to the bottom corner. The model will fold along the creases. Flatten model"
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/FlowerOrigami/Blossom/4.gif",
+                        "Tutorial": "Rotate model so the open part is at the top."
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/FlowerOrigami/Blossom/5.gif",
+                        "Tutorial": "Fold top layer of triangular flaps into the centre line."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/FlowerOrigami/Blossom/6.gif",
+                        "Tutorial": "Turn model over and repeat this step on the other side."
+                    },
+                    {
+                        "Header": "Step 7",
+                        "Image": "Assets/FlowerOrigami/Blossom/7.gif",
+                        "Tutorial": "Fold the bottom corner upwards to the point shown. Crease very well and unfold."
+                    },
+                    {
+                        "Header": "Step 8",
+                        "Image": "Assets/FlowerOrigami/Blossom/8.gif",
+                        "Tutorial": "Open out the front and back petals.As you open the front and back petals, the side petals should open up too, revealing the colour inside."
+                    },
+                    {
+                        "Header": "Step 9",
+                        "Image": "Assets/FlowerOrigami/Blossom/9.gif",
+                        "Tutorial": "You can then fold the stem in half backwards to make the petals stay in place."
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/FlowerOrigami/Blossom/7.gif",
+                        "Tutorial": "Finished blossom!"
+                    }
+                ]
+            },
+            {
+                "UniqueId": "Group-4-Item-2",
+                "Title": "Flower",
+                "Subtitle": "This beautiful Origami flower is a favourite of mine. I learned this one at school, and made dozens of them for all my friends (and they loved them by the way!)",
+                "ImagePath": "flower",
+                "Description": "Make the origami ladybug out of red or yellow paper, and then draw some pretty spots on it afterwards.",
+                "Steps": [
+                    {
+                        "Header": "Flower",
+                        "Image": "Assets/FlowerOrigami/flower/flower.jpg",
+                        "Tutorial": "This beautiful Origami flower is a favourite of mine. I learned this one at school, and made dozens of them for all my friends (and they loved them by the way!)"
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/FlowerOrigami/flower/1.gif",
+                        "Tutorial": "Start with a square piece of paper, white side up. Fold the paper in half, crease well and open, and then fold again in the other direction."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/FlowerOrigami/flower/2.png",
+                        "Tutorial": "Turn the paper over to the coloured side. Fold the paper in half, crease well and open, and then fold again in the other direction. Your creases should look like this."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/FlowerOrigami/flower/3.png",
+                        "Tutorial": "Using the creases you have made, Bring the top 3 corners of the model down to the bottom corner. Flatten model."
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/FlowerOrigami/flower/4.gif",
+                        "Tutorial": "Fold toward centre line and unfold."
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/FlowerOrigami/flower/5.gif",
+                        "Tutorial": "Using the crease you have just made, open and flatten this flap."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/FlowerOrigami/flower/6.gif",
+                        "Tutorial": "Repeat step 4 and 5 on the other 3 flaps of the model."
+                    },
+                    {
+                        "Header": "Step 7",
+                        "Image": "Assets/FlowerOrigami/flower/7.gif",
+                        "Tutorial": "Turn the page' of the front and back flaps; so your model looks like this."
+                    },
+                    {
+                        "Header": "Step 8",
+                        "Image": "Assets/FlowerOrigami/flower/8.png",
+                        "Tutorial": " Lift the top layer up, folding along the crease shown."
+                    },
+                    {
+                        "Header": "Step 9",
+                        "Image": "Assets/FlowerOrigami/flower/9.gif",
+                        "Tutorial": "Now repeat step 8 on the remaining 3 flaps, so the model now looks like this."
+                    },
+                    {
+                        "Header": "Step 10",
+                        "Image": "Assets/FlowerOrigami/flower/10.png",
+                        "Tutorial": "Turn over and make sure there are equal pleats behind each side of model."
+                    },
+                    {
+                        "Header": "Step 11",
+                        "Image": "Assets/FlowerOrigami/flower/11.gif",
+                        "Tutorial": "Pinch these two creases through all layers."
+                    },
+                    {
+                        "Header": "Step 12",
+                        "Image": "Assets/FlowerOrigami/flower/12.png",
+                        "Tutorial": "Now pinch the narrow end to make the edges meet behind the model."
+                    },
+                    {
+                        "Header": "Step 13",
+                        "Image": "Assets/FlowerOrigami/flower/13.png",
+                        "Tutorial": "Holding the narrow point of the model very loosely, pull the outermost petals toward each other until they meet."
+                    },
+                    {
+                        "Header": "Step 14",
+                        "Image": "Assets/FlowerOrigami/flower/14.gif",
+                        "Tutorial": "Now form the petals by pinching the ends, and slightly folding back these tips. Finished Flower."
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/FlowerOrigami/flower/flower.jpg",
+                        "Tutorial": "FLOWER"
+                    }
+                ]
+            },
+            {
+                "UniqueId": "Group-4-Item-3",
+                "Title": "Lily",
+                "Subtitle": "The origami lily, also know as the iris, is a beautiful design. It takes a little longer than the other simple flowers, but stick with it, because the end result is worth it!",
+                "ImagePath": "lilyred_l",
+                "Description": "The origami lucky star is so easy to make, but it looks so pretty... soon you'll be making hundreds!\nYou make it with a strip of paper. A good starting size is about 30cm, or 1 foot long, and about 1cm wide, or about half an inch.\nOnce you have made a couple, you can choose the length and width that you think makes the best star.",
+                "Steps": [
+                    {
+                        "Header": "Lily",
+                        "Image": "Assets/FlowerOrigami/Lily/LilyRed_l.gif",
+                        "Tutorial": "The origami lily, also know as the iris, is a beautiful design. It takes a little longer than the other simple flowers, but stick with it, because the end result is worth it!"
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/FlowerOrigami/Lily/1.png",
+                        "Tutorial": "Start with your paper coloured side up. Fold in half, then in half again, as shown. Crease well, then open out again."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/FlowerOrigami/Lily/2.png",
+                        "Tutorial": "Turn the paper over and fold in half diagonally and in both directions. Crease well and open out once again."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/FlowerOrigami/Lily/3.png",
+                        "Tutorial": "Holding the points shown, bring them both down to the centre point on the bottom line. Flatten model. This is called a waterbomb base."
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/FlowerOrigami/Lily/4.png",
+                        "Tutorial": "Fold the top triangle into the centre and unfold. Using this crease, open out the triangle and flatten."
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/FlowerOrigami/Lily/5.gif",
+                        "Tutorial": "You'll need to repeat step 4 on all four of the flaps of the waterbomb base. The model will now look like this."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/FlowerOrigami/Lily/6.png",
+                        "Tutorial": "On the uppermost diamond, fold the outside corners into the centre line, crease well then open."
+                    },
+                    {
+                        "Header": "Step 7",
+                        "Image": "Assets/FlowerOrigami/Lily/7.png",
+                        "Tutorial": "Fold the whole model in half and open."
+                    },
+                    {
+                        "Header": "Step 8",
+                        "Image": "Assets/FlowerOrigami/Lily/8.png",
+                        "Tutorial": "Using the creases made in step 6 and 7, lift the bottom point of the model (the uppermost layer only) up to the top point, bringing in the sides of the model at the same time, as shown."
+                    },
+                    {
+                        "Header": "Step 9",
+                        "Image": "Assets/FlowerOrigami/Lily/9.gif",
+                        "Tutorial": "Repeat steps 6, 7 and 8 on each if the four sides. The model should now look like this."
+                    },
+                    {
+                        "Header": "Step 10",
+                        "Image": "Assets/FlowerOrigami/Lily/10.gif",
+                        "Tutorial": "Now fold down each of these triangles, on all four sides."
+                    },
+                    {
+                        "Header": "Step 11",
+                        "Image": "Assets/FlowerOrigami/Lily/11.gif",
+                        "Tutorial": "Rotate model upside down, so the open part is at the top."
+                    },
+                    {
+                        "Header": "Step 12",
+                        "Image": "Assets/FlowerOrigami/Lily/12.gif",
+                        "Tutorial": "Fold the outer flaps toward the centre and flatten."
+                    },
+                    {
+                        "Header": "Step 13",
+                        "Image": "Assets/FlowerOrigami/Lily/13.gif",
+                        "Tutorial": "Repeat step 12 on all four sides of the model. The model should now look like this."
+                    },
+                    {
+                        "Header": "Step 14",
+                        "Image": "Assets/FlowerOrigami/Lily/14.gif",
+                        "Tutorial": "Fold down all petals, opening the flower as you go."
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/FlowerOrigami/Lily/15.gif",
+                        "Tutorial": "Completed Lily!"
+                    }
+                ]
+            },
+            {
+                "UniqueId": "Group-4-Item-4",
+                "Title": "Lotus",
+                "Subtitle": "The beautiful origami lotus is much simpler than it looks! Make it with some special textured paper for a lovely effect. It works best with paper that is a little flexible, as step 7 (see below) can sometimes make the paper rip if it is too brittle.",
+                "ImagePath": "lotus_l",
+                "Description": "The Origami Hat is a great model for kids to make, because it's so simple and fun to wear afterwards!\nUse a large piece of paper, or newspaper for this design.",
+                "Steps": [
+                    {
+                        "Header": "Lotus",
+                        "Image": "Assets/FlowerOrigami/Lotus/lotus_L.gif",
+                        "Tutorial": "The beautiful origami lotus is much simpler than it looks! Make it with some special textured paper for a lovely effect. It works best with paper that is a little flexible, as step 7 (see below) can sometimes make the paper rip if it is too brittle."
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/FlowerOrigami/Lotus/1.png",
+                        "Tutorial": " Start with white side up. Fold diagonally both ways and open."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/FlowerOrigami/Lotus/2.png",
+                        "Tutorial": "Fold each corner into the centre."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/FlowerOrigami/Lotus/3.png",
+                        "Tutorial": "Fold each corner into the centre once again."
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/FlowerOrigami/Lotus/4.png",
+                        "Tutorial": "For a third time, fold each corner into the centre."
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/FlowerOrigami/Lotus/5.gif",
+                        "Tutorial": "Turn model over and fold each corner into the centre."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/FlowerOrigami/Lotus/6.gif",
+                        "Tutorial": "Fold each corner inwards a small amount."
+                    },
+                    {
+                        "Header": "Step 7",
+                        "Image": "Assets/FlowerOrigami/Lotus/7.gif",
+                        "Tutorial": "To form the petals, press down on the point shown, while slowly pulling the petal from behind, to the front. It's almost like turning the corner 'inside out'. Repeat on all corners."
+                    },
+                    {
+                        "Header": "Step 8",
+                        "Image": "Assets/FlowerOrigami/Lotus/8.gif",
+                        "Tutorial": "The second set of petals are formed the same way, but the corner from the point shown."
+                    },
+                    {
+                        "Header": "Step 9",
+                        "Image": "Assets/FlowerOrigami/Lotus/9.gif",
+                        "Tutorial": "he third set doesn't need to be turned 'inside out', just folded normally from below the first set."
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/FlowerOrigami/Lotus/10.gif",
+                        "Tutorial": "Finished Lotus."
+                    }
+                ]
+            },
+            {
+                "UniqueId": "Group-4-Item-5",
+                "Title": "Flower Stem",
+                "Subtitle": "The Origami Flower Stem is a great little model, in that it allows any flower to stand up by itself, so you don't need a vase.",
+                "ImagePath": "flower_stem_l",
+                "Description": "This beautiful origami pelican is simple and elegant, and it will stand up by itself. Use a small sheet of square paper to create this pretty design.",
+                "Steps": [
+                    {
+                        "Header": "Flower Stem",
+                        "Image": "Assets/FlowerOrigami/stem/flower-stem_L.gif",
+                        "Tutorial": "The Origami Flower Stem is a great little model, in that it allows any flower to stand up by itself, so you don't need a vase."
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/FlowerOrigami/stem/1.gif",
+                        "Tutorial": "Start with a green square of paper, white side up. Fold in half, crease and open."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/FlowerOrigami/stem/2.gif",
+                        "Tutorial": "Start with a green square of paper, white side up. Fold in half, crease and open."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/FlowerOrigami/stem/3.gif",
+                        "Tutorial": "Start with a green square of paper, white side up. Fold in half, crease and open."
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/FlowerOrigami/stem/4.gif",
+                        "Tutorial": "Start with a green square of paper, white side up. Fold in half, crease and open."
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/FlowerOrigami/stem/5.gif",
+                        "Tutorial": "Start with a green square of paper, white side up. Fold in half, crease and open."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/FlowerOrigami/stem/6.gif",
+                        "Tutorial": "Start with a green square of paper, white side up. Fold in half, crease and open."
+                    },
+                    {
+                        "Header": "Step 7",
+                        "Image": "Assets/FlowerOrigami/stem/7.gif",
+                        "Tutorial": "Start with a green square of paper, white side up. Fold in half, crease and open."
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/FlowerOrigami/stem/8.gif",
+                        "Tutorial": "Finished Flower Stem. This model should stand on its own. The flower stem an be used for any origami flower which has a hole in the base, such as the tulip. Just insert the stem into the base of the flower."
+                    }
+                ]
+            },
+            {
+                "UniqueId": "Group-4-Item-6",
+                "Title": "Tulip Frog",
+                "Subtitle": "The origami tulip is a favourite model of mine: it is relatively simple and looks so sweet when bunched together with other tulips, or different types of flowers.",
+                "ImagePath": "tulip_l",
+                "Description": "The Origami Jumping Frog is really easy to make... To make the frog jump to its best potential, use paper that's a bit thicker. You will need to use rectangular paper for this model",
+                "Steps": [
+                    {
+                        "Header": "Tulip Frog",
+                        "Image": "Assets/FlowerOrigami/tulip/tulip_L.gif",
+                        "Tutorial": "The origami tulip is a favourite model of mine: it is relatively simple and looks so sweet when bunched together with other tulips, or different types of flowers."
+                    },
+                    {
+                        "Header": "Step 1",
+                        "Image": "Assets/FlowerOrigami/tulip/1.png",
+                        "Tutorial": " Start with your paper coloured side up. Fold in half, then in half again, as shown. Crease well, then open out again."
+                    },
+                    {
+                        "Header": "Step 2",
+                        "Image": "Assets/FlowerOrigami/tulip/2.png",
+                        "Tutorial": " Start with your paper coloured side up. Fold in half, then in half again, as shown. Crease well, then open out again."
+                    },
+                    {
+                        "Header": "Step 3",
+                        "Image": "Assets/FlowerOrigami/tulip/3.png",
+                        "Tutorial": "Holding the points shown, bring them both down to the centre point on the bottom line. Flatten model. This is called a waterbomb base."
+                    },
+                    {
+                        "Header": "Step 4",
+                        "Image": "Assets/FlowerOrigami/tulip/4.gif",
+                        "Tutorial": "Fold bottom corners of front flaps up to the top corner. Repeat this on the back as well."
+                    },
+                    {
+                        "Header": "Step 5",
+                        "Image": "Assets/FlowerOrigami/tulip/5.gif",
+                        "Tutorial": " Turn the front flap to the left, like turning the pages in a book. Do the same to the other side of the model."
+                    },
+                    {
+                        "Header": "Step 6",
+                        "Image": "Assets/FlowerOrigami/tulip/6.gif",
+                        "Tutorial": "Move the upper flaps toward each other, and tuck one into the other, as far as it goes."
+                    },
+                    {
+                        "Header": "Step 7",
+                        "Image": "Assets/FlowerOrigami/tulip/7.gif",
+                        "Tutorial": "When you flatten this, make sure the distances A & B shown are equal."
+                    },
+                    {
+                        "Header": "Step 8",
+                        "Image": "Assets/FlowerOrigami/tulip/8.gif",
+                        "Tutorial": "Repeat steps 6 & 7 on back of model, to get this."
+                    },
+                    {
+                        "Header": "Step 9",
+                        "Image": "Assets/FlowerOrigami/tulip/9.gif",
+                        "Tutorial": "Blow into base of tulip to inflate and shape the flower."
+                    },
+                    {
+                        "Header": "Finished",
+                        "Image": "Assets/FlowerOrigami/tulip/10.gif",
+                        "Tutorial": "Peel each petal down, slowly and carefully. Your tulip is now finished. You can pair it with the flower stem as pictured."
+                    }
+                ]
+            }
+        ]
+    }
+    ]
